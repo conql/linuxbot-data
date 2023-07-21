@@ -56,4 +56,5 @@ pip install -r requirements.txt
 
 # 备注
 GPT4接口限制：每分钟最多10个请求，每天最多1000个请求
+
 Embedding接口限制：每分钟最多40个请求，每天最多2000个请求
