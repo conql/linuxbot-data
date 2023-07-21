@@ -44,10 +44,10 @@ def main():
         df["embedding"] = None
 
     # Define the maximum number of requests per minute
-    max_requests_per_minute = 60
+    max_requests_per_minute = 40
 
     # Calculate the delay between requests
-    delay = 40 / max_requests_per_minute
+    delay = 60 / max_requests_per_minute
 
     # Get the embeddings for each combined text
     for i in tqdm(df.index):
