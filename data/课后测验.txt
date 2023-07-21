@@ -1,0 +1,1940 @@
+POSIX标准的作用是对UNIX进行（）。
+A. 可移植化
+B. 互联互通
+C. 标准化
+D. 可定制化
+正确答案: C
+
+Linux的内核在哪个开源协议下发行？
+A. Apache
+B. BSD
+C. MIT
+D. GPL
+正确答案: D
+
+下面哪个操作系统不属于类UNIX操作系统？
+A. Linux
+B. Windows 10
+C. Berkeley UNIX
+D. UNIX System V
+正确答案: B
+
+GNU开发的工具在哪个协议下发行？
+A. GPL
+B. MIT
+C. BSD
+D. Apache
+正确答案: A
+
+Linux内核的开发者是？
+A. Elon Musk
+B. Richard Stallman
+C. Linus Torvalds
+D. Jeff Bezos
+正确答案: C
+
+Linux内核的版本号中包括（）。
+A. 昵称号
+B. 主版本号
+C. 次版本号
+D. 修订次数
+正确答案: BCD
+
+GNU项目开发出的重要软件工具有（）。
+A. make
+B. gdb
+C. bash
+D. gcc
+E. emacs
+正确答案: ABCDE
+
+UNIX的两个流派是？
+A. Solaris
+B. BSD UNIX
+C. UnixWare
+D. System V
+正确答案: BD
+
+在GPL协议下发布的软件，用户可以（）。
+A. 运行该软件
+B. 修改该软件
+C. 发布修改后的软件
+D. 查看该软件源代码
+正确答案: ABCD
+
+UNIX系统的开发者是？
+A. Dennis Ritchie
+B. Ken Thompson
+C. Linus Torvalds
+D. Bill Gates
+正确答案: AB
+
+Linux操作系统的版本号包括（）
+A. 内核版本号
+B. 外壳版本号
+C. 发行版本号
+D. shell版本号
+正确答案: AC
+
+FSF(Free Software Foundation)组织中，Free的含义是免费。
+A. 对
+B. 错
+正确答案: 错
+
+用户修改在GPL协议下发布的软件，再发布时可以添加自己的限制条件。
+A. 对
+B. 错
+正确答案: 错
+
+UNIX从一开始就是用C语言编写的。
+A. 对
+B. 错
+正确答案: 错
+
+UNIX被注册为软件商标，最早由AT&T公司持有。
+A. 对
+B. 错
+正确答案: 对
+
+shell是命令解释器，位于UNIX的内核中。
+A. 对
+B. 错
+正确答案: 错
+
+使用远程登录软件登录系统后，使用who命令看到该用户的登录终端类型为（）
+A. 控制台console
+B. 远程终端
+C. 伪终端pts
+D. 虚拟终端tty
+正确答案: C
+
+命令中选项的作用是（）
+A. 指明命令作用的对象
+B. 加速命令执行
+C. 调整命令的执行行为
+D. 调整命令优先级
+正确答案: C
+
+UNIX系统中的管理员是？
+A. adminstrator
+B. root
+C. sys
+D. admin
+正确答案: B
+
+内部命令又称为（）
+A. 系统工具程序
+B. shell命令
+C. 磁盘命令
+D. 内存命令
+正确答案: B
+
+已知mkdir为GNU项目开发的外部命令，下面哪个命令无法获得该命令的帮助信息（）
+A. man mkdir
+B. mkdir --help
+C. info mkdir
+D. help mkdir
+正确答案: D
+
+用户登录成功后，命令行是由哪个系统组件显示出来的？
+A. 常驻模块
+B. shell
+C. 应用工具
+D. 内核
+正确答案: B
+
+在命令中输入出现错误，想删除整行字符，使用命令？
+A. ctrl+u
+B. 按键backspace
+C. ctrl+h
+D. ctrl+c
+正确答案: A
+
+类UNIX系统中的虚拟终端称为()
+A. tty
+B. vt
+C. :0
+D. pts
+正确答案: A
+
+想终止正在命令行中执行的程序，可以使用组合键？
+A. ctrl+c
+B. ctrl+b
+C. ctrl+z
+D. ctrl+w
+正确答案: A
+
+命令ls -a -l /boot中，参数是？
+A. boot
+B. /boot
+C. -a -l /boot
+D. -a -l
+正确答案: B
+
+用于显示当前系统中登录用户信息的命令是？
+A. who
+B. here
+C. logged
+D. login
+正确答案: A
+
+在图形用户界面中使用终端模拟软件打开一个终端窗口，使用who命令看到该用户的登录终端类型为（）
+A. 虚拟终端tty
+B. 控制台console
+C. 伪终端pts
+D. 本地终端
+正确答案: C
+
+用户A切换到虚拟终端2并成功登录，其他用户使用who命令看到用户A的登录终端为（）
+A. 虚拟终端tty
+B. 控制台console
+C. 伪终端pts/2
+D. 虚拟终端tty2
+正确答案: D
+
+shell程序保存在哪个目录中？
+A. /sbin
+B. /bin
+C. /etc
+D. /bash
+正确答案: B
+
+命令中参数的作用是（）
+A. 调整命令的执行行为
+B. 调整命令优先级
+C. 指明命令作用的对象
+D. 加速命令执行
+正确答案: C
+
+显示时间和日期的命令是?
+A. who
+B. now
+C. date
+D. time
+正确答案: C
+
+显示日历信息的命令是？
+A. ymd
+B. date
+C. cal
+D. calendar
+正确答案: C
+
+UNIX中，命令提示符中的哪个符号可以说明用户是普通用户（）。
+A. $
+B. ￥
+C. &
+D. #
+正确答案: A
+
+下面选项的使用中，哪个是错误？
+A. ls -a
+B. ls -a-l
+C. ls  -a -l
+D. ls -al
+正确答案: B
+
+获得命令帮助信息的途径（可能）有（）
+A. 命令man
+B. 命令help
+C. 命令选项--help
+D. 命令info
+正确答案: ABCD
+
+伪终端是由（）软件模拟出的终端
+A. 终端模拟
+B. 系统
+C. 远程登录
+D. 用户
+正确答案: AC
+
+命令分为（）
+A. 远程命令
+B. 本地命令
+C. 内部命令
+D. 外部命令
+正确答案: CD
+
+who命令显示的用户登录信息包括（）
+A. 登录的地点（地址）
+B. 终端号
+C. 登录名
+D. 登录时间
+正确答案: ABCD
+
+用户在UNIX系统上进行登录时，需要输入（）。
+A. 用户UID
+B. 登录名
+C. 口令
+D. 命令提示符
+正确答案: BC
+
+命令行的三个组成部分为（）。
+A. 命令名
+B. 选项
+C. 分隔符
+D. 参数
+正确答案: ABD
+
+help命令无法提供外部命令的帮助信息
+A. 对
+B. 错
+正确答案: 对
+
+命令中可以使用多个选项。
+A. 对
+B. 错
+正确答案: 对
+
+外部命令又称系统工具程序，保存在文件系统中，使用时才载入内存执行。
+A. 对
+B. 错
+正确答案: 对
+
+命令行中的回车键解释为命令行的结束符。
+A. 对
+B. 错
+正确答案: 对
+
+用户在使用UNIX系统前必须登录。
+A. 对
+B. 错
+正确答案: 对
+
+在UNIX中，root用户可以使用passwd命令修改其他用户的密码
+A. 对
+B. 错
+正确答案: 对
+
+贡献者参加开源项目开发，提交PR的步骤是？
+A. 将本地提交push到自己的社区库中
+B. 将自己社区库中的代码clone到本地开发环境上
+C. 提交修改
+D. 向社区官方代码库提交PR
+E. 修改代码，解决bug或开发新feature
+F. 待Maintainer review后合入社区官方代码库
+G. 贡献者从社区官方代码库中fork一份代码到自己的库
+正确答案：GBECADF
+
+使用git工具将本地代码改动推到服务器上的贡献者代码仓库的选项是？
+A. add
+B. pull
+C. push
+D. commit
+正确答案: C
+
+使vi进入命令模式的按键是？
+A. c
+B. tab
+C. esc
+D. i
+正确答案: C
+
+使用dnf命令删除软件包的选项是？
+A. remove
+B. del
+C. delete
+D. omit
+正确答案: A
+
+命令模式中，撤销对当前行所做的所有修改所用的键是？
+A. U
+B. u
+C. l
+D. L
+正确答案: A
+
+使用dnf命令更新软件包的选项是？
+A. renovate
+B. regenerate
+C. update
+D. renew
+正确答案: C
+
+使用git工具查看文件状态的选项是？
+A. state
+B. status
+C. condition
+D. form
+正确答案: B
+
+目前光标在第5行，在命令模式下能够使光标回到2行的命令是（）。
+A. 3k
+B. 3j
+C. 4k
+D. gg
+正确答案: A
+
+使用/或？进行搜索后，将光标移动到下一个匹配字符串，并且与搜索命令方向相同的按键是（）。
+A. P
+B. n
+C. N
+D. p
+正确答案: B
+
+不保存文件，强制退出vi的命令是？
+A. :q!
+B. :exit
+C. :q
+D. :break
+正确答案: A
+
+移动光标到行首所用的键是？
+A. w
+B. 0
+C. $
+D. .
+正确答案: B
+
+下面哪个命令不可以保存文件并退出vi编辑器
+A. :x
+B. ZZ
+C. :save
+D. :wq
+正确答案: C
+
+光标目前在第2行，删除第2行到第4行的命令是（）。
+A. 3dd
+B. D3
+C. dd3
+D. 2-4d
+正确答案: A
+
+命令模式下，左移2个字的命令是（）。
+A. 2w
+B. 2e
+C. 2word
+D. 2b
+正确答案: D
+
+在命令模式中要执行ex命令，需要按下按键（）后，再输入命令。 
+A. :
+B. '
+C. #
+D. $
+正确答案: A
+
+在命令模式下，光标所在行只有一个单词word，光标在字符w处。按下按键R后，输入world，则此行的文本为（）。
+A. Rworldword
+B. wRworldord
+C. world
+D. wworldord
+正确答案: C
+
+命令模式中，光标右移一个字所用的键是？
+A. w
+B. c
+C. b
+D. e
+正确答案: A
+
+使用git工具添加文件到暂存区选项是？
+A. pull
+B. add
+C. commit
+D. push
+正确答案: B
+
+shell程序保存在哪个目录中？
+A. /etc
+B. /bash
+C. /sbin
+D. /bin
+正确答案: D
+
+移动光标到行尾所用的键是？
+A. w
+B. $
+C. .
+D. t
+正确答案: B
+
+使用dnf命令安装软件包的选项是？
+A. installation
+B. install
+C. setup
+D. mount
+正确答案: B
+
+命令模式中，撤销最近一次修改所用的键（）。
+A. c
+B. b
+C. U
+D. u
+正确答案: D
+
+使用dnf命令安装软件包集合的选项是？
+A. install
+B. setup
+C. mount
+D. groupinstall
+正确答案: D
+
+使用git工具提交文件变动到版本库的选项是？
+A. add
+B. commit
+C. push
+D. pull
+正确答案: B
+
+重复上一次修改的按键是？
+A. m
+B. .
+C. `
+D. u
+正确答案: B
+
+使用git工具创建分支的选项是？
+A. branch
+B. checkout
+C. fork
+D. clone
+正确答案: A
+
+使用git工具切换分支的选项是？
+A. branch
+B. fork
+C. checkout
+D. shift
+正确答案: C
+
+vi中在命令模式下，以下操作能够实现向右移动2格的操作是（）。
+A. 按两下空格
+B. 2l
+C. ll
+D. 按两下向右方向键
+正确答案: ABCD
+
+可以通过下面()的方式永久改变用户使用的shell。
+A. 使用chsh命令
+B. 修改用户配置文件passwd中对应的默认shell字段
+C. 命令行中输入新shell名并执行
+D. 使用chvt命令
+正确答案: AB
+
+用户在命令行虚拟终端登录过程中涉及到的程序有（）。
+A. shell类程序
+B. login程序
+C. getty类程序
+D. passwd程序
+正确答案: ABC
+
+按键后由命令模式切换到文本输入模式，并且光标移动到行尾或者行首的命令有（）
+A. a
+B. I
+C. A
+D. i
+正确答案: BC
+
+在使用git工具进行开源项目开发时，需要使用config选项配置贡献者在代码托管平台的用户名和邮箱地址，下面配置用户linuxer用户名和邮箱的正确命令是？
+A. git  config   user.email   linuxer@qq.com
+B. git  config  email   linuxer@qq.com
+C. git   config  user.name   linuxer
+D. git   config  name   linuxer
+正确答案: AC
+
+下面哪些是vi的切换模式键？
+A. i
+B. I(大写i)
+C. A
+D. O(大写o)
+E. a
+F. o
+G. e
+正确答案: ABCDEF
+
+贡献者参加开源项目开发的各个步骤中，能够使用git工具进行操作的有？
+A. 提交修改
+B. 贡献者从社区官方代码库中fork一份代码到自己的库
+C. 将自己社区库中的代码clone到本地开发环境上
+D. 将本地提交push到自己的社区库中
+正确答案: ACD
+
+命令模式下左移一个字符，可以使用按键（）
+A. l
+B. backspace
+C. <-(向左方向键)
+D. h
+正确答案: BCD
+
+按键后由命令模式切换到文本输入模式，并且产生新行的命令有（）
+A. O
+B. I
+C. A
+D. o
+正确答案: AD
+
+使用/或？对字符串进行搜索后，当搜索到多个字符串时，按键（）能够将光标移动到下一个匹配字符串。
+A. n
+B. p
+C. N
+D. P
+正确答案: AC
+
+vi的工作模式都有哪些？
+A. 命令模式
+B. 页编辑模式
+C. 文本输入模式
+D. 行编辑模式
+正确答案: AC
+
+命令模式下，按回车键或按键j，都能使光标下移1行
+A. 对
+B. 错
+正确答案: 对
+
+vi打开文件后，以波浪号为开头的行表示该行尚未被编辑。
+A. 对
+B. 错
+正确答案: 对
+
+在命令行中输入新的shell名称（可执行文件存在）并执行,可以临时改变shell
+A. 对
+B. 错
+正确答案: 对
+
+命令模式下/和？后接字符串都可以对字符串进行搜索，只是搜索方向不同。
+A. 对
+B. 错
+正确答案: 对
+
+命令模式下，按键backspace和按键x功能一致，都能删除字符。
+A. 对
+B. 错
+正确答案: 错
+
+命令模式下，按下按键r能够替换光标所在的字符并且切换到文本输入模式。
+A. 对
+B. 错
+正确答案: 错
+
+
+git  clone https://gitee.com/my-tux/LinuxAbc.git，上述命令中网址指的是“贡献者账号仓库下面的项目地址”
+A. 对
+B. 错
+正确答案: 对
+
+假设X为vi的一个选项，要查看该选项的当前值，可以使用命令（）。
+A. :set X?
+B. :set $X
+C. :set X
+D. :set &X
+正确答案: A
+
+直接使用命令vi(不带任何参数）启动vi编辑器，想把编辑的内容写入到文件filea中，需要使用命令（）。
+A. :e filea
+B. :r filea
+C. :w filea
+D. :x filea
+正确答案: C
+
+存放Linux内核的文件的目录为（）
+A. /root
+B. /
+C. /boot
+D. /kernel
+正确答案: C
+
+用户root登录成功后，发现在自己的主目录中，则root用户当前的工作目录是（）。
+A. /root/work
+B. /home/root
+C. /work
+D. /root
+正确答案: D
+
+已知当前目录为/home/david/bin，用户david执行cd ..命令后，再执行pwd命令，所显示的结果为（）。
+A. /home
+B. /home/david/bin
+C. /home/david
+D. /bin
+正确答案: C
+
+已知文件sda为设备文件，他应该保存在目录（）中。
+A. /disk
+B. /device
+C. /dev
+D. /media
+正确答案: C
+
+用户tom登录成功后，进入了他的主目录，此时他的工作目录为（）。
+A. /usr/tom
+B. /work/tom
+C. /current/tom
+D. /home/tom
+正确答案: D
+
+/sys目录的父目录是（）。
+A. sys
+B. /root
+C. 没有父目录
+D. /
+正确答案: D
+
+如果想了解内核的运行状态信息，可以通过查看目录（）中的相关文件。
+A. /root
+B. /boot
+C. /proc
+D. /kernel
+正确答案: C
+
+用于存放配置文件的目录是（）。
+A. /config
+B. /register
+C. /usr/local
+D. /etc
+正确答案: D
+
+/usr/local是/usr的（）。
+A. 子目录
+B. 主目录
+C. 父目录
+D. 工作目录
+正确答案: A
+
+root用户登录后将进入（）目录。
+A. /desktop
+B. /root
+C. /boot
+D. /home/root
+正确答案: B
+
+vi中将光标移动到文件尾部，需要使用命令（）。
+A. G
+B. $
+C. gg
+D. T
+正确答案: A
+
+将光标移动到第一行，可以使用命令（）。
+A. 1G
+B. :1
+C. gg
+D. 0
+正确答案: ABC
+
+vi中的翻页操作，向下翻页的命令有（）。
+A. Ctrl-b
+B. Ctrl-u
+C. Ctrl-f
+D. Ctrl-d
+正确答案: CD
+
+按照FHS标准，下面哪些目录应该是根目录的子目录
+A. usr
+B. bin
+C. 普通用户tom的主目录
+D. dev
+正确答案: ABD
+
+UNIX系统中，下面文件名命名错误的有（）。
+A. file>a
+B. filea.doc
+C. file*a
+D. file$a
+正确答案: ACD
+
+已知当前目录中不存在目录xx，如果想在当前目录中创建目录xx/yy，可以使用命令（组）（）。
+A.
+mkdir xx
+mkdir xx/yy
+B. mkdir -r xx/yy
+C. mkdir -p xx/yy
+D. mkdir xx/yy
+正确答案: AC
+
+已知某命令普通用户可以使用，则该命令的程序可能保存在目录（）中。
+A. /sys
+B. /usr
+C. /usr/bin
+D. /bin
+正确答案: CD
+
+可用于挂载其他文件系统的目录有（）。
+A. /lib
+B. /media
+C. /udisk
+D. /mnt
+正确答案: BD
+
+命令执行后，一定能够回到当前用户主目录的有（）。
+A. cd ..
+B. cd ~
+C. cd -
+D. cd
+正确答案: BD
+
+已知某命令只有用户root可以使用，则该命令不可能保存在目录（）中。
+A. /sbin
+B. /usr/sbin
+C. /bin
+D. /root
+正确答案: CD
+
+下列路径名为相对路径的有那些
+A. /home/david/temp
+B. ..
+C. REPORT
+D. .
+E. my_first.c
+F. david/temp
+正确答案: BCDEF
+
+root用户目前在自己的主目录中，想进入david用户的主目录，可以使用命令（）。
+A. cd ../home/david
+B. cd ~david
+C. cd 
+D. cd /home/david
+正确答案: ABD
+
+可用于保存库文件和模块文件的目录有（）
+A. /usr/lib
+B. /lib64
+C. /lib
+D. /usr/lib64
+正确答案: ABCD
+
+vi中的翻页操作符中，每次翻一页的有（）。
+A. Ctrl-d
+B. Ctrl-b
+C. Ctrl-f
+D. Ctrl-u
+正确答案: BC
+
+vi编辑器中，使用命令对选项进行设置，退出后再次打开vi时仍可以使用。
+A. 对
+B. 错
+正确答案: 错
+
+系统日志等经常变动的文件放在/var目录中。
+A. 对
+B. 错
+正确答案: 对
+
+mkdir命令创建目录后，目录中有.文件和..文件。
+A. 对
+B. 错
+正确答案: 对
+
+rmdir命令能够删除目录中只有.文件和..文件的目录。
+A. 对
+B. 错
+正确答案: 对
+
+重要的、机密文件可以放置在/tmp目录中，阻止其他用户的访问。
+A. 对
+B. 错
+正确答案: 错
+
+cd命令后面的参数，可以使用绝对路径的形式表示，也可以使用相对路径的形式表示。
+A. 对
+B. 错
+正确答案: 对
+
+在UNIX系统中，文件名中字母大小写不敏感。
+A. 对
+B. 错
+正确答案: 错
+
+UNIX文件系统组织为一个以根目录(/)为根节点的树形结构。
+A. 对
+B. 错
+正确答案: 对
+
+vi打开一个已存在的文件，文件会被复制到一个临时工作区，接着所进行的修改只作用于临时工作区中的副本，而不是原文件。
+A. 对
+B. 错
+正确答案: 对
+
+vi中命令J的作用是连接两行。
+A. 对
+B. 错
+正确答案: 对
+
+绝对路径/home/david/bin中的第一个/表示路径开始，后面的/是父目录与子目录的分隔符。
+A. 对
+B. 错
+正确答案: 错
+
+使用绝对路径可以表示出文件系统中任意文件的位置，而使用相对路径只能表示出当前目录内部文件的位置。
+A. 对
+B. 错
+正确答案: 错
+
+输出重定向允许命令（进程）的输出保存到（）中。
+A. 标准出错设备
+B. 标准输出设备
+C. 标准输入设备
+D. 文件
+正确答案: D
+
+wc命令统计字数的选项是（）。
+A. c
+B. w
+C. count
+D. word
+正确答案: B
+
+下面命令中能显示出当前目录中文件（不包括隐藏文件）个数的是（）。
+A. ls -l | wc -w
+B. ls -l | wc -l
+C. ls | wc -l
+D. ls | wc -w
+正确答案: D
+
+wc命令统计行数的选项是（）。
+A. lines
+B. l
+C. w
+D. c
+正确答案: B
+
+命令（）能够在已存在文件和新文件之间建立链接。
+A. lk
+B. mv
+C. cp
+D. ln
+正确答案: D
+
+ls -l命令显示文件详细信息，第一个字段的第2到10个字符表示对文件不同用户的权限设置，如果某个位置的符号为（），表示用户没有该项权限。
+A. x
+B. w
+C. -
+D. r
+正确答案: C
+
+find命令选项atime表示按照文件的（）查找。
+A. 最近访问时间
+B. 最近修改时间
+C. 最近状态改变时间
+D. 文件创建时间
+正确答案: A
+
+find命令选项mtime表示按照文件的（）查找。
+A. 最近状态改变时间
+B. 文件创建时间
+C. 最近修改时间
+D. 最近访问时间
+正确答案: C
+
+命令行中只输入cat命令，cat命令从（）获得输入。
+A. 文件
+B. 标准输入设备
+C. 标准输出设备
+D. 标准出错输出设备
+正确答案: B
+
+显示文件filea第21到30行的命令是（）。
+A. head -30 filea | tail -21
+B. head -30 filea | tail -10
+C. tail -n 30-21 filea
+D. head -n 21-30 filea
+正确答案: B
+
+ls -l命令显示文件详细信息，第一个字段的第2到10个字符表示对文件不同用户的权限设置，其中表示对文件有执行权限的符号为（）。
+A. r
+B. x
+C. g
+D. e
+正确答案: B
+
+如果使用cp命令复制目录，需要使用选项（）。
+A. -f
+B. -b
+C. -i
+D. -r
+正确答案: D
+
+将文件filea改名为fileb的命令是()。
+A. cp filea fileb
+B. ln filea fileb
+C. cn filea fileb
+D. mv filea fileb
+正确答案: D
+
+使用rm命令删除目录时，必须使用的选项为（）
+A. r
+B. f
+C. i
+D. a
+正确答案: A
+
+输入重定向允许命令（进程）从（）中获得输入。
+A. 标准出错设备
+B. 标准输入设备
+C. 标准输出设备
+D. 文件
+正确答案: D
+
+使用find命令将在cpp1目录中找到以.c为结尾的文件并且将他们都拷贝到目录cpp2中的命令是（）。
+A. find cpp1 -name *.c -exec cp cpp2 {} \;
+B. find cpp1 -name *.c -exec cp {} cpp2 \;
+C. find cpp1 -name "*.c" -exec cp {} cpp2 \;
+D. find cpp1 -name "*.c" -exec cp cpp2 {} \;
+正确答案: C
+
+用于将文件从一个地方移动到另外一个地方的命令是（）。
+A. cp
+B. ln
+C. mv
+D. move
+正确答案: C
+
+用于创建文件副本的命令是（）。
+A. cp
+B. copy
+C. mv
+D. ln
+正确答案: A
+
+输入重定向使用的符号有（）。
+A. <
+B. <<
+C. >>
+D. >
+正确答案: AB
+
+下面哪些命令能够显示文件filea的内容（）。
+A. cat < filea
+B. cat << filea
+C. cat filea
+D. cat > filea
+正确答案: AC
+
+输出重定向使用的符号有（）。
+A. <
+B. >>
+C. <<
+D. >
+正确答案: BD
+
+ls -l命令显示文件详细信息，第一个字段的第2到10个字符表示对文件不同用户的权限设置，用于表示文件权限的符号有（）。
+A. r
+B. -
+C. x
+D. w
+正确答案: ABCD
+
+dir是一个目录，cp filea fileb filec dir命令成功执行后，再执行ls dir命令，显示的文件有()
+A. fileb
+B. dir
+C. filec
+D. filea
+正确答案: ACD
+
+匹配report[!1-3]的文件名是（）。
+A. report2
+B. report4
+C. reporta
+D. report
+正确答案: BC
+
+find命令的组成部分有（）。
+A. 动作选项
+B. 默认选项
+C. 搜索选项
+D. 路径名
+正确答案: ACD
+
+下面命令中，能够复制文件filea为fileb的有（）。
+A. cat < filea > fileb
+B. ln filea fileb
+C. cp filea fileb
+D. cat filea > fileb
+正确答案: ACD
+
+下面哪些文件只使用ls命令不能显示，而使用ls -a命令能够显示出来（）。
+A. .vimrc
+B. ..
+C. .
+D. .bash_profile
+正确答案: ABCD
+
+动作选项-exec和-ok的区别在于，-exec用户执行命令前需要确认，而-ok不需要。
+A. 对
+B. 错
+正确答案: 错
+
+ls -l命令显示文件详细信息，第5个字段表示这个文件的大小，单位是kb。
+A. 对
+B. 错
+正确答案: 错
+
+find命令的-name选项后面出现带通配符的文件名时，需要将整个文件名用双引号引上。
+A. 对
+B. 错
+正确答案: 对
+
+通配符[]出现的位置可以没有字符。
+A. 对
+B. 错
+正确答案: 错
+
+文件filea已存在，执行命令ls >>filea后，filea原有的数据不会被覆盖。
+A. 对
+B. 错
+正确答案: 对
+
+作为cp、mv和ln命令参数的文件名，既可以用绝对路径表示，也可以用相对路径表示。
+A. 对
+B. 错
+正确答案: 对
+
+用作通配符时，？可以匹配文件名中的0个或者1个字符。
+A. 对
+B. 错
+正确答案: 错
+
+使用cat命令，结合输出重定向可以创建新文件。
+A. 对
+B. 错
+正确答案: 对
+
+dir是当前目录中的一个目录，当前目录中不存在目录dir1，mv dir dir1命令执行的结果是目录dir被移动到目录dir1中。
+A. 对
+B. 错
+正确答案: 错
+
+修改链接文件的内容，不影响被链接文件的内容。
+A. 对
+B. 错
+正确答案: 错
+
+cat命令的参数可以为一个或多个文本文件名，用来显示这个/些文件的内容。
+A. 对
+B. 错
+正确答案: 对
+
+dir是当前目录中一个已存在的目录，cp filea dir命令成功执行后，会生成文件filea的副本，名为dir。
+A. 对
+B. 错
+正确答案: 错
+
+rm * 表示要删除当前目录中的所有文件。
+A. 对
+B. 错
+正确答案: 对
+
+wc命令能够从标准输入设备读取数据并进行统计。
+A. 对
+B. 错
+正确答案: 对
+
+可以使用ls *.*显示当前目录下的所有文件。
+A. 对
+B. 错
+正确答案: 错
+
+已知fileb是filea的链接文件，删除文件fileb后，filea的链接数属性值减一。
+A. 对
+B. 错
+正确答案: 对
+
+对于wc命令来说，字之间的分隔符是空格或tab（制表符）。
+A. 对
+B. 错
+正确答案: 对
+
+文件名中的通配符由命令自己识别，shell无需处理。
+A. 对
+B. 错
+正确答案: 错
+
+使用命令mv filea dir，将文件filea移动到dir目录中后，文件filea的名字不变。
+A. 对
+B. 错
+正确答案: 对
+
+执行命令cal > this_year后，屏幕上不会显示cal命令的输出内容。
+A. 对
+B. 错
+正确答案: 对
+
+在命令行中，可以使用（）分隔多个命令，从左向右依次执行。
+A. $
+B. ;（分号）
+C. :（冒号）
+D. &
+正确答案: B
+
+命令echo "\""的输出为（）。
+A. "\""
+B. """
+C. \"
+D. "
+正确答案: D
+
+将命令date、pwd和ls都放在后台执行的正确写法是（）。
+A. date&;pwd&;ls&
+B. date;pwd;ls
+C. (date;pwd;ls)
+D. date&pwd&ls&
+正确答案: D
+
+将命令放在后台执行，需要在命令后面加上符号（）。
+A. %
+B. &
+C. $
+D. #
+正确答案: B
+
+发送信号给指定进程，进行进程间通信的命令是（）。
+A. signal
+B. kill
+C. send
+D. ss
+正确答案: B
+
+对shell变量进行赋值需要使用符号（）。
+A. ==
+B. &=
+C. =
+D. :=
+正确答案: C
+
+在命令行结尾输入\，回车后新的一行的提示符由变量（）的值决定。
+A. PS1
+B. SHELL
+C. PS2
+D. TERM
+正确答案: C
+
+将目录/home/david/bin加入PATH变量中真确命令为（）。
+A. PATH=$path:/home/david/bin
+B. PATH=$PATH;/home/david/bin
+C. PATH=/home/david/bin
+D. PATH=$PATH:/home/david/bin
+正确答案: D
+
+kill命令中用于显示信号列表的选项是（）。
+A. a
+B. f
+C. l
+D. s
+正确答案: C
+
+shell变量值的类型为（）
+A. 文本
+B. 字符
+C. 字符串
+D. 数字
+正确答案: C
+
+用户david执行HOME=/home/david/bin命令后，执行cd命令后，再执行pwd命令，显示的结果为（）。
+A. /home/david
+B. /root
+C. /home
+D. /home/david/bin
+正确答案: D
+
+echo的转义序列中，（）表示回车换行。
+A. \c
+B. \n
+C. \t
+D. \r
+正确答案: B
+
+命令替换所使用的符号是（）。
+A. "
+B. '
+C. `（重音符号）
+D. ~
+正确答案: C
+
+命令age=32;echo '$age'执行后显示的结果为（）。
+A. age
+B. 32
+C. $age
+D. age=32
+正确答案: C
+
+在命令行中延迟2分钟再输出hello world的命令是（）。
+A. sleep 120 & echo "Hello World"
+B. sleep 2;echo "Hello World"
+C. sleep 120 ;echo "Hello World"
+D. sleep 2 & echo "Hello World"
+正确答案: C
+
+将几个命令变成一组执行，需要使用符号()。
+A. {}
+B. []
+C. ()
+D. \ \
+正确答案: C
+
+在echo命令中使用转义序列，必须将转义序列使用符号（）括起来。
+A. '（单引号）
+B. `（重音符号）
+C. "(双引号)
+D. （）（括号）
+正确答案: C
+
+age为shell局部变量，要使用echo命令显示该变量的值，需要在变量前面加符号（）。
+A. &
+B. %
+C. $
+D. #
+正确答案: C
+
+PATH变量中目录间的分隔符为（）。
+A. :（冒号）
+B. ;（分号）
+C. 空格
+D. 制表符
+正确答案: A
+
+命令编组中命令与命令之间的分隔符是（）。
+A. 空格
+B. 制表符
+C. :（冒号）
+D. ;（分号）
+正确答案: D
+
+消除元字符的特殊含义，可以使用符号（）
+A. "
+B. \
+C. `(重音符号)
+D. '
+正确答案: ABD
+
+变量（）用于保存命令提示符。
+A. PS3
+B. PSMORE
+C. PS1
+D. PS2
+正确答案: CD
+
+在符号（）括起来的内容中保留空白字符（空格、制表和换行符等）。
+A. "
+B. '
+C. `（重音符号）
+D. \
+正确答案: AB
+
+已知kill命令的15号信号名为SIGTERM，下面向5025号进程发送15号信号的命令有（）。
+A. kill  5025
+B. kill -15 5025
+C. kill 15 5025
+D. kill -SIGTERM 5025
+正确答案: ABD
+
+下面哪些是shell的功能（）。
+A. 管道(|)
+B. 环境控制
+C. 文件名替换
+D. I/O重定向
+E. 命令执行
+F. 后台处理
+G. shell脚本
+H. 内核装载
+正确答案: ABCDEFG
+
+查看系统中所有进程的状态，可以使用命令
+A. ps -ef
+B. ps
+C. ps aux
+D. ps ef
+正确答案: AC
+
+下列命令中属于内部命令的有（）。
+A. help
+B. set
+C. alias
+D. kill
+E. echo
+正确答案: ABCDE
+
+可用于命令提示符中的转义序列有（）。
+A. \W
+B. \$
+C. \h
+D. \u
+正确答案: ABCD
+
+双引号括起的内容中，元字符（）仍具有特殊含义。
+A. <
+B. $
+C. `(重音符号)
+D. >
+正确答案: BC
+
+命令ls | tee lsf1 lsf2 执行后，ls命令的输出将输出到（）。 
+A. 标准输出
+B. 文件lsf2
+C. 文件tee
+D. 文件lsf1
+正确答案: ABD
+
+命令kill -9 0 将终止当前shell（退出shell）
+A. 对
+B. 错
+正确答案: 对
+
+命令行中互相配对的两个单引号括起的任何字符都失去特殊含义
+A. 对
+B. 错
+正确答案: 对
+
+使用mv命令将文件从一个目录移动到另一个目录，文件i节点号也随之变化。
+A. 对
+B. 错
+正确答案: 错
+
+more命令可以分页查看文本文件，但是不能向前翻页。
+A. 对
+B. 错
+正确答案: 对
+
+在echo命令中所使用的转义字符，用于控制消息的格式，以反斜杠(\)开始，解释为用户想得到的输出。
+A. 对
+B. 错
+正确答案: 对
+
+命令行中含有重音符号括起来的命令，则先执行该命令，并将结果替换命令行中原来的命令。
+A. 对
+B. 错
+正确答案: 对
+
+\将其后的元字符解释为普通字符。
+A. 对
+B. 错
+正确答案: 对
+
+在echo命令中如果要使用转义序列，必须使用-e选项。
+A. 对
+B. 错
+正确答案: 对
+
+命令在前台执行时封锁键盘，命令在后台执行时不封锁键盘。
+A. 对
+B. 错
+正确答案: 对
+
+环境变量在shell中不能被用户重新赋值。
+A. 对
+B. 错
+正确答案: 错
+
+复制命令所产生的新文件和原文件i节点号相同。
+A. 对
+B. 错
+正确答案: 错
+
+管道可以将多个命令组合到一起，形成管道流水线，对数据进行处理。
+A. 对
+B. 错
+正确答案: 对
+
+用户修改标准变量的值，仅作用于当前会话，暂时改变。
+A. 对
+B. 错
+正确答案: 对
+
+ps命令不带选项，显示所有终端用户活动进程的状态。
+A. 对
+B. 错
+正确答案: 错
+
+shell中的局部变量又称标准变量。
+A. 对
+B. 错
+正确答案: 错
+
+可以对一个命令分组进行输出重定向。
+A. 对
+B. 错
+正确答案: 对
+
+用户执行内部命令时，将依次查找PATH变量所保存的目录。
+A. 对
+B. 错
+正确答案: 错
+
+使用ln命令为文件filea创建链接文件，filea的i节点号不变，但文件的数据会被复制一次。
+A. 对
+B. 错
+正确答案: 错
+
+命令ls | more，可以将当前目录中的文件分页显示出来。
+A. 对
+B. 错
+正确答案: 对
+
+echo命令的作用是将消息参数显示在用户的终端上。
+A. 对
+B. 错
+正确答案: 对
+
+|（管道）是将前一个命令的标准输出作为后一个命令的标准输入。
+A. 对
+B. 错
+正确答案: 对
+
+使用mv命令将文件改名，文件的i节点号会随着文件名的改变而改变。
+A. 对
+B. 错
+正确答案: 错
+
+shell内部命令是shell本身的一部分，在shell内部识别执行；shell外部命令保存在磁盘上，执行时才载入内存。
+A. 对
+B. 错
+正确答案: 对
+
+从变量中取值需要使用符号（）。
+A. #
+B. $
+C. %
+D. &
+正确答案: B
+
+shell中用于清除变量的命令是（）。
+A. unuse
+B. unset
+C. clear
+D. cls
+正确答案: B
+
+当前的shell是bash，在命令行中使用ksh won命令运行脚本won，脚本won在哪种shell中执行？
+A. csh
+B. ksh
+C. sh
+D. bash
+正确答案: B
+
+将文件filea的文本按照数值倒序排序的命令是（）。
+A. sort -vr filea
+B. sort -nr filea
+C. sort -dr filea
+D. sort -fn filea
+正确答案: B
+
+修改文件权限的命令是（）。
+A. chown
+B. chperm
+C. chsh
+D. chmod
+正确答案: D
+
+在/etc/passwd文件中查找不包含root的行的命令（）。
+A. grep -r root /etc/passwd 
+B. grep -n root /etc/passwd
+C. grep -v root /etc/passwd
+D. grep root /etc/passwd
+正确答案: C
+
+shell中，2>表示？
+A. 输入重定向
+B. 标准错误输出重定向
+C. 追加重定向
+D. 输出重定向
+正确答案: B
+
+shell中赋值给变量的值的类型为（）。
+A. 整数
+B. 字符
+C. 字符串
+D. 布尔
+正确答案: C
+
+shell变量var1的值为100，执行命令序列var1=10;export var1;bash;bash后，再执行echo $var1，显示的结果为（）。
+A. 空行
+B. 100
+C. 10
+D. var1
+正确答案: C
+
+shell脚本中，哪个符号表示后面的内容是注释文档
+A. #
+B. //
+C. $
+D. /*
+正确答案: A
+
+脚本中使用命令read VAR1 VAR2 VAR3 读取输入，用户的输入为32 ab，则VAR3为（）
+A. 32
+B. 空
+C. 32 ab
+D. ab
+正确答案: B
+
+表示gcc只进行预处理、编译和汇编，不生成可执行程序文件的选项是（）。 
+A. E
+B. S
+C. c
+D. o
+正确答案: C
+
+打开非登录shell时，需要执行的用户配置文件为（）。
+A. ~/.bashrc
+B. ~/.bash_logout
+C. ~/.bash_profile
+D. /etc/profile
+正确答案: A
+
+下条命令成功执行后，所生成的可执行文件为？
+g++ -o first first.cpp
+A. first
+B. a.out
+C. first.out
+D. first.exe
+正确答案: A
+
+命令DATE=`date`执行后，DATE中的内容为（）。
+A. date
+B. 命令执行时的日期时间
+C. 空字符
+D. 命令执行时的日期
+正确答案: B
+
+脚本中使用命令read VAR1 VAR2 VAR3 读取输入，用户的输入为32 ab 56 cd，则VAR3为（）
+A. 56 cd
+B. 空
+C. 56
+D. ab
+正确答案: A
+
+shell或脚本中，对变量进行赋值的符号为（）。
+A. +=
+B. ==
+C. :=
+D. =
+正确答案: D
+
+umask变量的值在哪个配置文件中设置。
+A. ~/.bash_logout
+B. ~/.bash_profile
+C. /etc/profile
+D. ~/.bash_login
+正确答案: C
+
+
+make命令通过makefile文件编译所对应的源码程序，makefile文件内容的组成部分包括（）
+A. 版本号
+B. 目标
+C. 命令
+D. 依赖文件
+正确答案: BCD
+
+make命令主要解决的问题（）。
+A. 减少项目重复编译时间
+B. 大项目源代码关系维护
+C. 版本控制
+D. 系统界面生成
+正确答案: AB
+
+Linux的全局性系统配置文件有（）。
+A. /etc/bashrc
+B. ~/.bashrc
+C. ~/.bash_profile
+D. /etc/profile
+正确答案: AD
+
+gcc / g++ 执行编译的步骤包括（）。
+A. 链   接
+B. 预处理
+C. 汇   编
+D. 编   译
+正确答案: ABCD
+
+对文件filea的文本进行排序，并将结果保存到文件fileasorted的命令（）。
+A. sort filea -o fileasorted
+B. sort < filea > fileasorted
+C. sort < filea -o fileasorted
+D. sort filea > fileasorted
+正确答案: ABCD
+
+已知用户所在的工作目录不在PATH变量保存的路径中，用户对工作目录中的脚本won有执行权限，那么能够执行脚本won的命令有（）。
+A. won
+B. .  won
+C. ./won
+D. bash won
+正确答案: BCD
+
+已知当前目录中只有三个文件file1 file2 和file3，命令（）能够从这些文件中查找包含字符串hello的行。
+A. grep hello file?
+B. grep hello *
+C. grep hello file*
+D. grep hello file1 file2 file3
+正确答案: ABCD
+
+已知文件filea的权限设置为rwxr--r--，要对组用户赋予写的权限，而不改变其他用户的权限，可以使用命令（）。
+A. chmod a+w filea
+B. chmod g+w filea
+C. chmod g=rw filea
+D. chmod g=w filea
+正确答案: BC
+
+适用于某个使用bash shell的用户的局部性用户配置文件有（）。
+A. ~/.bash_profile
+B. /etc/profile
+C. ~/.bash_logout
+D. ~/.bashrc
+正确答案: ACD
+
+
+make命令的输入文件可以为（）。
+A. GNUmakefile
+B. 选项 f 所指定的文件
+C. Makefile
+D. makefile
+正确答案: ABCD
+
+shell的程序文件被称为（）。
+A. shell进程
+B. 脚本
+C. shell脚本
+D. shell过程
+正确答案: BCD
+
+chmod命令中，表示权限的符号中，读权限用字母（）表示；写权限用字母（）表示；执行权限用字母（）表示。
+正确答案：
+(1) r
+(2) w
+(3) x
+
+chmod命令中，表示作用对象的符号中，用户/所有者用字母（）表示；组用户用字母（）表示；其他用户用字母（）表示；所有用户用字母（）表示。
+正确答案：
+(1) u
+(2) g
+(3) o
+(4) a
+
+chmod命令中，字母（）表示赋予用户某项权限；字母（）表示取消用户某项权限；字母（）表示为特定用户设置权限。
+正确答案：
+(1) +
+(2) -
+(3) =
+
+make命令用于编译众多相互关联的源代码文件。
+A. 对
+B. 错
+正确答案: 对
+
+使用 . 命令运行脚本时，在当前shell中执行脚本，而不创建子进程。
+A. 对
+B. 错
+正确答案: 对
+
+使用 . 和sh命令执行脚本时，也需要用户对脚本有执行权限，才能执行。
+A. 对
+B. 错
+正确答案: 错
+
+解释程序不需要将高级语言翻译成机器语言
+A. 对
+B. 错
+正确答案: 错
+
+
+gcc/g++编译程序时，不使用任何选项，默认生成的可执行文件为a.out
+A. 对
+B. 错
+正确答案: 对
+
+在shell中定义变量时，需要声明变量类型。
+A. 对
+B. 错
+正确答案: 错
+
+shell脚本是一个二进制文件，包含一系列shell命令。
+A. 对
+B. 错
+正确答案: 错
+
+使用sh命令执行脚本的实质是启动sh命令所指定的shell运行脚本程序
+A. 对
+B. 错
+正确答案: 对
+
+登录shell需要输入用户名和密码进行登录操作；打开非登录shell时，不需要输入用户名和密码。
+A. 对
+B. 错
+正确答案: 对
+
+shell脚本需要先进行编译，然后再执行。
+A. 对
+B. 错
+正确答案: 错
+
+执行脚本时，可以给执行该脚本的用户赋予一个执行权限，使脚本转变成可执行文件，再执行。
+A. 对
+B. 错
+正确答案: 对
+
+在chmod命令中，使用=为用户赋予权限，会先将用户原有权限清除，再赋予新权限。
+A. 对
+B. 错
+正确答案: 对
+
+解释程序一次翻译一行代码。
+A. 对
+B. 错
+正确答案: 对
+
+make若没有指定目标，默认实现makefile文件的第一个目标，然后退出；编译时只能指定一个实现目标。
+A. 对
+B. 错
+正确答案: 错
+
+判断变量num1中的数值是否大于num2中的数值的test正确命令为（）
+A. test num1 -gt num2
+B. test $num1 -ge $num2
+C. test num1 -ge num2
+D. test $num1 -gt $num2
+正确答案: D
+
+echo $1 为脚本BOX中的语句，在命令行中输入BOX ONE TWO THREE后，脚本中echo $1的输出为（）。
+A. TWO
+B. BOX
+C. ONE
+D. THREE
+正确答案: C
+
+判断变量var的值既不等于abc，也不等于bcd的test命令（）。
+A. test "$var" != abc -a "$var" != bcd 
+B. test var != abc -o var != bcd 
+C. test var != abc -a var != bcd 
+D. test "$var" != abc -o "$var" != bcd 
+正确答案: A
+
+显示磁盘空间使用情况的命令是？
+A. du
+B. fdisk
+C. df
+D. dd
+正确答案: C
+
+在命令行中执行命令var1="one two three";set `echo $var1`后，再执行echo $*，输出为（）。
+A. one two three
+B. one
+C. three
+D. two
+正确答案: A
+
+命令x=10 ; x=$x+1执行后，再执行echo $x显示的结果为（）。
+A. 11
+B. 10+1
+C. $x+1
+D. 10
+正确答案: B
+
+echo $* 为脚本BOX中的语句，在命令行中输入BOX ONE TWO THREE后，脚本中echo $*的输出为（）。
+A. ONE TWO THERE
+B. TWO
+C. BOX ONE TWO THERE
+D. ONE
+正确答案: A
+
+echo $0 为脚本BOX中的语句，在命令行中输入BOX ONE TWO THREE后，脚本中echo $0的输出为（）。
+A. ONE
+B. THREE
+C. BOX
+D. TWO
+正确答案: C
+
+主要用来显示目录空间使用情况的命令是？
+A. fdsik
+B. du
+C. df
+D. dd
+正确答案: B
+
+用户的登录密码保存在哪个文件中？
+A. /etc/shadow
+B. /etc/passwd
+C. /etc/users
+D. /etc/profile
+正确答案: A
+
+echo $# 为脚本BOX中的语句，在命令行中输入BOX ONE TWO THREE后，脚本中echo $#的输出为（）。
+A. 3
+B. 2
+C. 1
+D. 4
+正确答案: A
+
+用户账号信息保存在哪个文件中？
+A. /etc/shadow
+B. /etc/users
+C. /etc/user
+D. /etc/passwd
+正确答案: D
+
+在指定时间执行程序的命令是？
+A. exec
+B. run
+C. runontime
+D. at
+正确答案: D
+
+检测变量var的值是否等于abc的命令为（）。
+A. [ var = abc ]
+B. test "$var" = abc
+C. test var = abc
+D. [ "$var" = abc ]
+正确答案: BD
+
+属于test命令的数值判断操作符有（）。
+A. -le
+B. ==
+C. -eq
+D. -gt
+正确答案: ACD
+
+文件filea的用户访问权限设置用数字形式表示是755，则同组用户拥有的访问权限是？
+A. 写
+B. 执行
+C. 读
+D. 无权限
+正确答案: BC
+
+属于test命令字符串比较操作符的有（）。
+A. =
+B. -z
+C. !=
+D. -n
+正确答案: ABCD
+
+test命令用于文件检测的操作符有（）。
+A. -s
+B. -r
+C. -d
+D. -f
+E. -w
+正确答案: ABCDE
+
+tar命令中表示“创建一个新的存档文件”功能的选项是（）；表示“使用下一个参数作为存档文件的存放位置”的选项是（）；表示“列出存档文件中所有被打包的文件”的选项是（）；表示“从存档文件中还原被打包文件”的选项是（）；表示“提供打包文件的附加信息”的选项是（）
+正确答案：
+(1) c;-c
+(2) f;-f
+(3) t;-t
+(4) x;-x
+(5) v;-v
+
+使用compress命令压缩后的文件，可以使用()命令进行解压缩。
+正确答案：
+(1) uncompress;compress -d
+
+exit是shell内部命令，能够终止脚本执行，并返回一个退出状态（一个整数，又称返回码）。
+A. 对
+B. 错
+正确答案: 对
+
+test是shell外部命令，它计算作为其参数的表达式的真假
+A. 对
+B. 错
+正确答案: 错
+
+超级用户不可以读取其他用户的加密文件
+A. 对
+B. 错
+正确答案: 错
+
+test命令的数值判断操作符可以判断（比较）两个数的大小，无论这两个数是整数还是实数。
+A. 对
+B. 错
+正确答案: 错
+
+超级用户可以删除其他用户的文件
+A. 对
+B. 错
+正确答案: 对
