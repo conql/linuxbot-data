@@ -1,0 +1,248 @@
+1. 假设X为vi的一个选项，要查看该选项的当前值，可以使用命令（）。
+A. :set X?
+B. :set $X
+C. :set X
+D. :set &X
+正确答案: A
+
+2. 直接使用命令vi(不带任何参数）启动vi编辑器，想把编辑的内容写入到文件filea中，需要使用命令（）。
+A. :e filea
+B. :r filea
+C. :w filea
+D. :x filea
+正确答案: C
+
+3. 存放Linux内核的文件的目录为（）
+A. /root
+B. /
+C. /boot
+D. /kernel
+正确答案: C
+
+4. 用户root登录成功后，发现在自己的主目录中，则root用户当前的工作目录是（）。
+A. /root/work
+B. /home/root
+C. /work
+D. /root
+正确答案: D
+
+5. 已知当前目录为/home/david/bin，用户david执行cd ..命令后，再执行pwd命令，所显示的结果为（）。
+A. /home
+B. /home/david/bin
+C. /home/david
+D. /bin
+正确答案: C
+
+6. 已知文件sda为设备文件，他应该保存在目录（）中。
+A. /disk
+B. /device
+C. /dev
+D. /media
+正确答案: C
+答案解析：
+
+7. 用户tom登录成功后，进入了他的主目录，此时他的工作目录为（）。
+A. /usr/tom
+B. /work/tom
+C. /current/tom
+D. /home/tom
+正确答案: D
+
+8. /sys目录的父目录是（）。
+A. sys
+B. /root
+C. 没有父目录
+D. /
+正确答案: D
+
+9. 如果想了解内核的运行状态信息，可以通过查看目录（）中的相关文件。
+A. /root
+B. /boot
+C. /proc
+D. /kernel
+正确答案: C
+
+10. 用于存放配置文件的目录是（）。
+A. /config
+B. /register
+C. /usr/local
+D. /etc
+正确答案: D
+
+11. /usr/local是/usr的（）。
+A. 子目录
+B. 主目录
+C. 父目录
+D. 工作目录
+正确答案: A
+
+12. root用户登录后将进入（）目录。
+A. /desktop
+B. /root
+C. /boot
+D. /home/root
+正确答案: B
+
+13. vi中将光标移动到文件尾部，需要使用命令（）。
+A. G
+B. $
+C. gg
+D. T
+正确答案: A
+
+14. 将光标移动到第一行，可以使用命令（）。
+A. 1G
+B. :1
+C. gg
+D. 0
+正确答案: ABC
+
+15. vi中的翻页操作，向下翻页的命令有（）。
+A. Ctrl-b
+B. Ctrl-u
+C. Ctrl-f
+D. Ctrl-d
+正确答案: CD
+
+16. 按照FHS标准，下面哪些目录应该是根目录的子目录
+A. usr
+B. bin
+C. 普通用户tom的主目录
+D. dev
+正确答案: ABD
+
+17. UNIX系统中，下面文件名命名错误的有（）。
+A. file>a
+B. filea.doc
+C. file*a
+D. file$a
+正确答案: ACD
+
+18. 已知当前目录中不存在目录xx，如果想在当前目录中创建目录xx/yy，可以使用命令（组）（）。
+A.
+mkdir xx
+mkdir xx/yy
+B. mkdir -r xx/yy
+C. mkdir -p xx/yy
+D. mkdir xx/yy
+正确答案: AC
+
+19. 已知某命令普通用户可以使用，则该命令的程序可能保存在目录（）中。
+A. /sys
+B. /usr
+C. /usr/bin
+D. /bin
+正确答案: CD
+
+20. 可用于挂载其他文件系统的目录有（）。
+A. /lib
+B. /media
+C. /udisk
+D. /mnt
+正确答案: BD
+
+21. 命令执行后，一定能够回到当前用户主目录的有（）。
+A. cd ..
+B. cd ~
+C. cd -
+D. cd
+正确答案: BD
+
+22. 已知某命令只有用户root可以使用，则该命令不可能保存在目录（）中。
+A. /sbin
+B. /usr/sbin
+C. /bin
+D. /root
+正确答案: CD
+
+23. 下列路径名为相对路径的有那些
+A. /home/david/temp
+B. ..
+C. REPORT
+D. .
+E. my_first.c
+F. david/temp
+正确答案: BCDEF
+
+24. root用户目前在自己的主目录中，想进入david用户的主目录，可以使用命令（）。
+A. cd ../home/david
+B. cd ~david
+C. cd 
+D. cd /home/david
+正确答案: ABD
+
+25. 可用于保存库文件和模块文件的目录有（）
+A. /usr/lib
+B. /lib64
+C. /lib
+D. /usr/lib64
+正确答案: ABCD
+
+26. vi中的翻页操作符中，每次翻一页的有（）。
+A. Ctrl-d
+B. Ctrl-b
+C. Ctrl-f
+D. Ctrl-u
+正确答案: BC
+
+27. vi编辑器中，使用命令对选项进行设置，退出后再次打开vi时仍可以使用。
+A. 对
+B. 错
+正确答案: 错
+
+28. 系统日志等经常变动的文件放在/var目录中。
+A. 对
+B. 错
+正确答案: 对
+
+29. mkdir命令创建目录后，目录中有.文件和..文件。
+A. 对
+B. 错
+正确答案: 对
+
+30. rmdir命令能够删除目录中只有.文件和..文件的目录。
+A. 对
+B. 错
+正确答案: 对
+
+31. 重要的、机密文件可以放置在/tmp目录中，阻止其他用户的访问。
+A. 对
+B. 错
+正确答案: 错
+
+32. cd命令后面的参数，可以使用绝对路径的形式表示，也可以使用相对路径的形式表示。
+A. 对
+B. 错
+正确答案: 对
+答案解析：
+
+33. 在UNIX系统中，文件名中字母大小写不敏感。
+A. 对
+B. 错
+正确答案: 错
+
+34. UNIX文件系统组织为一个以根目录(/)为根节点的树形结构。
+A. 对
+B. 错
+正确答案: 对
+
+35. vi打开一个已存在的文件，文件会被复制到一个临时工作区，接着所进行的修改只作用于临时工作区中的副本，而不是原文件。
+A. 对
+B. 错
+正确答案: 对
+答案解析：
+
+36. vi中命令J的作用是连接两行。
+A. 对
+B. 错
+正确答案: 对
+
+37. 绝对路径/home/david/bin中的第一个/表示路径开始，后面的/是父目录与子目录的分隔符。
+A. 对
+B. 错
+正确答案: 错
+
+38. 使用绝对路径可以表示出文件系统中任意文件的位置，而使用相对路径只能表示出当前目录内部文件的位置。
+A. 对
+B. 错
+正确答案: 错

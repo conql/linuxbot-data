@@ -11,7 +11,7 @@ API_KEY = os.getenv("API_KEY")
 
 def get_embedding(text):
     # Define the API endpoint
-    url = "https://chimeragpt.adventblocks.cc/v1/embeddings"
+    url = "https://chimeragpt.adventblocks.cc/api/v1/embeddings"
 
     # Define the headers for the API request
     headers = {

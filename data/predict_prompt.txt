@@ -1,0 +1,11 @@
+{{#user~}}
+问题：{{question}}
+{{attachment}}
+请按下列格式回答该问题：
+思考：（对题目的分析和思考过程）
+答案：（题目的答案，只需要给出选项对应字母即可）
+{{~/user}}
+                    
+{{#assistant~}}
+{{gen 'answer' temperature=0 max_tokens=500}}
+{{~/assistant}}

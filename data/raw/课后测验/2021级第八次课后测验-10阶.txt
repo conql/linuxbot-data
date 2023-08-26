@@ -1,0 +1,177 @@
+1. 判断变量num1中的数值是否大于num2中的数值的test正确命令为（）
+A. test num1 -gt num2
+B. test $num1 -ge $num2
+C. test num1 -ge num2
+D. test $num1 -gt $num2
+正确答案: D
+
+2. echo $1 为脚本BOX中的语句，在命令行中输入BOX ONE TWO THREE后，脚本中echo $1的输出为（）。
+A. TWO
+B. BOX
+C. ONE
+D. THREE
+正确答案: C
+答案解析：
+
+3. 判断变量var的值既不等于abc，也不等于bcd的test命令（）。
+A. test "$var" != abc -a "$var" != bcd 
+B. test var != abc -o var != bcd 
+C. test var != abc -a var != bcd 
+D. test "$var" != abc -o "$var" != bcd 
+正确答案: A
+
+4. 显示磁盘空间使用情况的命令是？
+A. du
+B. fdisk
+C. df
+D. dd
+正确答案: C
+
+5. 在命令行中执行命令var1="one two three";set `echo $var1`后，再执行echo $*，输出为（）。
+A. one two three
+B. one
+C. three
+D. two
+正确答案: A
+
+6. 命令x=10 ; x=$x+1执行后，再执行echo $x显示的结果为（）。
+A. 11
+B. 10+1
+C. $x+1
+D. 10
+正确答案: B
+
+7. echo $* 为脚本BOX中的语句，在命令行中输入BOX ONE TWO THREE后，脚本中echo $*的输出为（）。
+A. ONE TWO THERE
+B. TWO
+C. BOX ONE TWO THERE
+D. ONE
+正确答案: A
+答案解析：
+
+8. echo $0 为脚本BOX中的语句，在命令行中输入BOX ONE TWO THREE后，脚本中echo $0的输出为（）。
+A. ONE
+B. THREE
+C. BOX
+D. TWO
+正确答案: C
+答案解析：
+
+9. 主要用来显示目录空间使用情况的命令是？
+A. fdsik
+B. du
+C. df
+D. dd
+正确答案: B
+
+10. 用户的登录密码保存在哪个文件中？
+A. /etc/shadow
+B. /etc/passwd
+C. /etc/users
+D. /etc/profile
+正确答案: A
+
+11. echo $# 为脚本BOX中的语句，在命令行中输入BOX ONE TWO THREE后，脚本中echo $#的输出为（）。
+A. 3
+B. 2
+C. 1
+D. 4
+正确答案: A
+答案解析：
+
+12. 用户账号信息保存在哪个文件中？
+A. /etc/shadow
+B. /etc/users
+C. /etc/user
+D. /etc/passwd
+正确答案: D
+
+13. 在指定时间执行程序的命令是？
+A. exec
+B. run
+C. runontime
+D. at
+正确答案: D
+
+14. 检测变量var的值是否等于abc的命令为（）。
+A. [ var = abc ]
+B. test "$var" = abc
+C. test var = abc
+D. [ "$var" = abc ]
+正确答案: BD
+
+15. 属于test命令的数值判断操作符有（）。
+A. -le
+B. ==
+C. -eq
+D. -gt
+正确答案: ACD
+
+16. 文件filea的用户访问权限设置用数字形式表示是755，则同组用户拥有的访问权限是？
+A. 写
+B. 执行
+C. 读
+D. 无权限
+正确答案: BC
+
+17. 属于test命令字符串比较操作符的有（）。
+A. =
+B. -z
+C. !=
+D. -n
+正确答案: ABCD
+
+18. test命令用于文件检测的操作符有（）。
+A. -s
+B. -r
+C. -d
+D. -f
+E. -w
+正确答案: ABCDE
+答案解析：
+
+19. tar命令中表示“创建一个新的存档文件”功能的选项是（）；表示“使用下一个参数作为存档文件的存放位置”的选项是（）；表示“列出存档文件中所有被打包的文件”的选项是（）；表示“从存档文件中还原被打包文件”的选项是（）；表示“提供打包文件的附加信息”的选项是（）
+我的答案：
+(1) -c
+(2) -f
+(3) -t
+(4) -x
+(5) -v
+正确答案：
+(1) c;-c
+(2) f;-f
+(3) t;-t
+(4) x;-x
+(5) v;-v
+
+20. 使用compress命令压缩后的文件，可以使用()命令进行解压缩。
+我的答案：
+(1) uncompress
+正确答案：
+(1) uncompress;compress -d
+答案解析：
+
+21. exit是shell内部命令，能够终止脚本执行，并返回一个退出状态（一个整数，又称返回码）。
+A. 对
+B. 错
+正确答案: 对
+
+22. test是shell外部命令，它计算作为其参数的表达式的真假
+A. 对
+B. 错
+正确答案: 错
+
+23. 超级用户不可以读取其他用户的加密文件
+A. 对
+B. 错
+正确答案: 错
+
+24. test命令的数值判断操作符可以判断（比较）两个数的大小，无论这两个数是整数还是实数。
+A. 对
+B. 错
+正确答案: 错
+
+25. 超级用户可以删除其他用户的文件
+A. 对
+B. 错
+正确答案: 对
